@@ -3,10 +3,11 @@
 A Python-based network scanning tool built in Termux.
 
 ## Features
-- Detects devices on local network
-- Tracks changes
-- Identifies new devices
+- Scans local network
+- Lists active IPs
+- Detects device changes
 
-## Built With
+## Built with
 - Python
 - Nmap
+- Termux
